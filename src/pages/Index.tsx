@@ -9,8 +9,10 @@ import MemoriesSection from "@/components/MemoriesSection";
 import TestimonialsSection from "@/components/TestimonialsSection";
 import Footer from "@/components/Footer";
 
+import AudioPlayer from "@/components/AudioPlayer";
+
 const Index = () => (
-  <>
+  <div className="relative min-h-screen">
     <Navbar />
     <HeroSection />
     <AboutSection />
@@ -21,7 +23,8 @@ const Index = () => (
     <MemoriesSection />
     <TestimonialsSection />
     <Footer />
-  </>
+    <AudioPlayer />
+  </div>
 );
 
 export default Index;

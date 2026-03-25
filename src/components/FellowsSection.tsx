@@ -154,11 +154,11 @@ const fellows = [
   {
     id: 22,
     name: "Naureen",
-    image: "/naureen-main.jpeg",
+    image: "/naureen-main-new.jpeg",
     tagline: "Inspiring the Next Generation",
     schools: "Fellowship Journey",
     gallery: [
-      "/naureen-main.jpeg",
+      "/naureen-main-new.jpeg",
       "/hero-img-2.jpeg",
       "/naureen-action-1.jpeg"
     ],
